@@ -1,0 +1,2 @@
+Hello this is the first file in the geekster directory
+then next we are going to creat another file
